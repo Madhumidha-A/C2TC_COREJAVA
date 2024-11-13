@@ -1,6 +1,6 @@
 package com.tnsif.ifet.daythirteen;
 
-public class RunnableDemmo {
+public class RunnableDemo {
 
 	public static void main(String[] args) {
 Runnable runnable = new Runnable() {
